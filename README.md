@@ -1,6 +1,5 @@
 # wordlewithlevels
 
-## Description
 👋 Hi @everyone,
 
 This repository is a result of our final group project for the Computational Science (Lab) subject. It was created by a group of students with the goal of enhancing and expanding the popular wordle game developed by @baraltech. We have added exciting new levels and features to provide a fresh and engaging experience for players.
